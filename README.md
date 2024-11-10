@@ -1,4 +1,4 @@
-# E-Commerce-PHP-MySQL-
+# E-Commerce
 <p align="center"><img src="./ui/Ecommerce-Home-Page.png" width="100%" alt="View"></p>
 <p align="center"><img src="./ui/Ecommerce-Products.png" width="100%" alt="View"></p>
 <p align="center"><img src="./ui/Ecommerce-Cart-Details-Page.png" width="100%" alt="View"></p>
